@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sachin702385/Leetcode/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/sachin702385/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sachin702385/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/sachin702385/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
