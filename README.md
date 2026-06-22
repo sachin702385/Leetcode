@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sachin702385/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sachin702385/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sachin702385/Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/sachin702385/Leetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sachin702385/Leetcode/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sachin702385/Leetcode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sachin702385/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
