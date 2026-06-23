@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sachin702385/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sachin702385/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sachin702385/Leetcode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/sachin702385/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sachin702385/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachin702385/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/sachin702385/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sachin702385/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Design
 |  |
 | ------- |
